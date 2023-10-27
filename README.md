@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">Passionate Frontend Engineer with expertise in CSS, JavaScript and React JS. A wizard at creating captivating projects that merge creativity and cutting-edge tech. Design-driven and user-focused, I consistently deliver top-tier results. Eager to contribute and innovative mindset to a dynamic team, shaping the digital landscape together.</h3>
 
-- 🌱 I’m currently exploring about **about backend technologies namely Node.js, MongoDB, Express.js**
+- 🌱 I’m currently exploring about ** backend technologies namely Node.js, MongoDB, Express.js**
 
 - 👨‍💻 All of my projects are available at [matrix-02.github.io/Project-M/](matrix-02.github.io/Project-M/)
 
