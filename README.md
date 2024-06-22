@@ -35,7 +35,7 @@ fields_of_interests:
     "Game Development",
   ]  
 currently_learning: ["Next.js", "typeScript", "refining skills in Node.js"]
-currently_working_on_project: ScriptQuiz
+currently_working_on_project: Zynka
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Gym", "Art"]
 ```
