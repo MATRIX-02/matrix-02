@@ -38,6 +38,7 @@ currently_learning: ["Next.js", "typeScript", "refining skills in Node.js"]
 currently_working_on_project: Zynka
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Gym", "Art"]
+DESCLAIMER: THAT IS NOT A CIGARETTE. ITS POKI-POKI
 ```
   
 ---  
